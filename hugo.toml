@@ -1,7 +1,7 @@
 baseURL = 'https://muskanshaikh07-git.github.io/my-blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'gruvbox'
+theme = 'anake'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
