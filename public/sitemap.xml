@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://muskanshaikh07.github.io/quickstart/posts/my-first-post/</loc>
     <lastmod>2026-01-28T11:49:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://muskanshaikh07.github.io/quickstart/</loc>
     <lastmod>2026-01-28T11:49:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://muskanshaikh07.github.io/quickstart/posts/</loc>
     <lastmod>2026-01-28T11:49:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://muskanshaikh07.github.io/quickstart/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://muskanshaikh07.github.io/quickstart/tags/</loc>
   </url>
 </urlset>
