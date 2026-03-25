@@ -1,8 +1,10 @@
 +++
 date = "2026-03-23T19:07:01+05:30"
 draft = false
-title = "My learning experience with binary and optimizing problems"
+title = "New Post"
 +++
+
+##### **Title**:- *"My learning experience with binary and optimizing problems"*
 
 
 
