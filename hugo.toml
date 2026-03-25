@@ -7,6 +7,3 @@ theme = 'ananke'
   [caches.images]
     dir = ':cacheDir/images'
 sectionPagesMenu = "main"
-
-[params]
-  recent_posts_number = 5
