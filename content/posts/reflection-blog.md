@@ -1,7 +1,7 @@
 +++
-date = "2026-03-23T18:07:57+05:30"
+date = '2026-03-23T18:07:57+05:30'
 draft = false
-title = "Reflection Blog"
+title = 'Reflection Blog'
 +++
 
 
