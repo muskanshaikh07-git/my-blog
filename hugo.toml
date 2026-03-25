@@ -6,4 +6,3 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-sectionPagesMenu = "main"
