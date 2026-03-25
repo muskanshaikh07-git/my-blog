@@ -1,14 +1,8 @@
 +++
-date = "2026-03-23T18:07:57+05:30"
-draft = false
-title = "Reflection Blog"
+date = '2026-03-25T12:02:08+05:30'
+draft = true
+title = 'Reflection Post'
 +++
-
-
-
-##### **Title**:- *"My learning experience with binary and optimizing problems"*
-
-
 
 In this unit, I learned about concepts that are related to binary numbers, decimal conversions, problem-solving (optimization problems) and transforming image. This all topics are new for me especially the topic related to binary numbers because as I change my major in second semester so I was unaware of what does binary numbers means firstly I consider this as normal numbers system. But later on I understood that computers only use 0s and 1s language which is known as binary number this concept was totally forgotten by me. 
 
